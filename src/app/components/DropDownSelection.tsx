@@ -6,8 +6,8 @@ export type DropDownLink = {
 }
 
 export const DropDownSelection = (prop: DropDownLink) => {
-    var inTitle = prop.title
-    var link = prop.href
+    const inTitle = prop.title
+    const link = prop.href
 
     return (
         <li className="">

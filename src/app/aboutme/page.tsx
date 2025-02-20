@@ -80,7 +80,7 @@ export default function AboutMe() {
             
         transition:{duration:0.5}
           }}
-        >What's next?</motion.div>
+        >What&apos;s next?</motion.div>
       </div>
 
 
