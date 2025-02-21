@@ -28,11 +28,11 @@ export default function AboutMe() {
         >Back End Experience</motion.div>
         
         <div className="flex flex-wrap w-1/2 items-center gap-4 pr-10">
-          <Image src={"/logo/c-sharp.svg"} width={100} height={100} className="border-2 border-white flex items-center gap-1" alt="C#"  />
-          <Image src={"/logo/golang.svg"} width={100} height={100} className="border-2 border-white items-center gap-2" alt="Go"  />
-          <Image src={"/logo/java.svg"} width={100} height={100} className="border-2 border-white items-center gap-3" alt="Java"  />
-          <Image src={"/logo/python.svg"} width={100} height={100} className="border-2 border-white items-center gap-4" alt="Python"  />
-          <Image src={"/logo/nodejs.svg"} width={100} height={100} className="border-2 border-white items-center gap-5" alt="Node"  />
+          <Image src={"/logo/c-sharp.svg"} width={100} height={100} className="border-2 border-white flex items-center" alt="C#"  />
+          <Image src={"/logo/golang.svg"} width={100} height={100} className="border-2 border-white items-center" alt="Go"  />
+          <Image src={"/logo/java.svg"} width={100} height={100} className="border-2 border-white items-center" alt="Java"  />
+          <Image src={"/logo/python.svg"} width={100} height={100} className="border-2 border-white items-center" alt="Python"  />
+          <Image src={"/logo/nodejs.svg"} width={100} height={100} className="border-2 border-white items-center" alt="Node"  />
         </div>
         </div>
         <div>make interactive canvas here</div>
